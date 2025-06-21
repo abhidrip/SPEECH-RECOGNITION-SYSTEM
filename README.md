@@ -1,4 +1,17 @@
 # SPEECH-RECOGNITION-SYSTEM
+
+*COMPANY *: CODTECH IT SOLUTIONS
+
+*NAME *: Abhideep Sahni
+
+$INTERN ID *: CT04DF1288
+
+*DOMAIN *: Artificial Intelligence
+
+*DURATION *: 4 WEEEKS
+
+*MENTOR *: NEELA SANTOSH
+
 This is a lightweight and efficient Speech-to-Text software designed to convert spoken audio into accurate, editable text in real time or from pre-recorded files. It supports multiple languages (if applicable, mention them) and offers an easy-to-use interface for developers and end-users alike.  
 ✨ Features:  
 Real-Time Transcription: Convert live speech to text instantly.
